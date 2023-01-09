@@ -2,7 +2,7 @@
 - 👀 I’m interested in Node.js and HTML
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me Discord = garv#8557
+- 📫 How to reach me Discord = Trazhub#0002
 
 <!---
 trazhub/trazhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
