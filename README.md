@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Incolnx](https://Incolnx.com)**
 
-- 🌱 I’m currently learning **Motion Graphics and 3d animation**
+- 🌱 I’m currently learning **Motion Graphics and 3d Modeling**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
