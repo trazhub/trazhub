@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Incolnx](https://Incolnx.com)**
+- 🔭 I’m currently working on **[LocalX](https://localm.eu.org/)**
 
 - 🌱 I’m currently learning **Motion Graphics and 3d Modeling**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **garvv.me@gmail.com**
+- 📫 How to reach me **hello@garvv.me**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games**
 
 ## 🚀 Languages and Tools:
 
