@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **hello@garvv.me**
+- 📫 How to reach me **hello@traz.cloud**
 
 - ⚡ Fun fact **I play games**
 
