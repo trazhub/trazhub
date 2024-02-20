@@ -36,7 +36,6 @@
 
 ## Connect with me:
 <p align="left">
-<img src="https://discordapp.com/api/guilds/[1073693495358918736]/widget.png?style=banner4" alt="Discord Banner 4"/>
 <a href = "https://twitter.com/@GarvSukuna69"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/trazhub69/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
