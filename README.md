@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[LocalX](https://localm.eu.org/)**
+- 🔭 I’m currently working on **[voteminecraftservers.com](https://voteminecraftservers.com/)**
 
 - 🌱 I’m currently learning **Motion Graphics and 3d Modeling**
 
