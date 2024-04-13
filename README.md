@@ -14,6 +14,10 @@
 
 - ⚡ Fun fact **I play games**
 
+- Discord 👀
+
+- [![Discord Presence](https://lanyard.cnrad.dev/api/835584835443228702)](https://discord.com/users/835584835443228702) 
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
