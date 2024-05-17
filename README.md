@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **[Discord](https://discord.com/users/835584835443228702)**
 
-- ⚡ Fun fact **I Design*
+- ⚡ Fun fact **I Design**
 
 - Discord 👀
 
