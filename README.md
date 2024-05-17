@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **hello@traz.cloud**
+- 📫 How to reach me **[Discord](https://discord.com/users/835584835443228702)**
 
-- ⚡ Fun fact **I play games**
+- ⚡ Fun fact **I Design*
 
 - Discord 👀
 
