@@ -38,7 +38,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://twitter.com/@GarvSukuna69"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/trazhub69/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/traz.cgi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 <a href="https://www.buymeacoffee.com/Trazhub"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Trazhub&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
