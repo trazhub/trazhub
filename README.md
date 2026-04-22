@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[aRGe](https://arge.in)**
+- 🔭 I’m currently working on **[LocalM Live](https://github.com/LocalMiner)**
 
 - 🌱 I’m currently learning **Motion Graphics and 3d Modeling**
 
