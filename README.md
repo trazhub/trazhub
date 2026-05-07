@@ -1,50 +1,115 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Trazhub</h1>
-<h3 align="center">I'm a passionate Developer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Trazhub!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD5FFF&center=true&vCenter=true&width=500&lines=Passionate+Developer+from+India;Building+Minecraft+Tools;Designing+Motion+Graphics;Creating+Open+Source+Projects" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🙋‍♂️ About Me
+<div align="center">
+  <h1 style="display:inline;">✨</h1>
+  <img src="https://github.com/702/702/blob/master/assets/images/rainbow-divider.gif" width="70%" style="display:inline-block; vertical-align:middle;">
+  <h1 style="display:inline;">✨</h1>
+</div>
 
-- 🔭 I’m currently working on **[LocalM Live](https://github.com/LocalMiner)**
+## 🙋‍♂️ About Me & What I Do
 
-- 🌱 I’m currently learning **Motion Graphics and 3d Modeling**
+<div align="center">
+  <table>
+    <tr>
+      <td width="55%">
+        <br>
+        🔭 I’m currently working on <b><a href="https://github.com/LocalMiner">LocalM Live</a></b><br><br>
+        🌱 I’m currently learning <b>Motion Graphics and 3D Modeling</b><br><br>
+        👯 I’m looking to collaborate on <b>OpenSource Projects</b><br><br>
+        📫 How to reach me <b><a href="https://discord.com/users/835584835443228702">Discord</a></b><br><br>
+        ⚡ Fun fact: <b>I Design!</b>
+      </td>
+      <td width="45%" align="center">
+        <!-- Live Animated Discord Presence via Lanyard -->
+        <a href="https://discord.com/users/835584835443228702">
+          <img src="https://lanyard.cnrad.dev/api/835584835443228702?theme=dark&bg=00000000&animated=true" alt="Discord Presence"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<div align="center">
+  <img src="https://github.com/702/702/blob/master/assets/images/rainbow-divider.gif" width="80%">
+</div>
 
-- 📫 How to reach me **[Discord](https://discord.com/users/835584835443228702)**
+## 🚀 Languages and Tools
 
-- ⚡ Fun fact **I Design**
+<div align="center">
+  <p>
+    <!-- We use animated SVG badges for a clean but dynamic look -->
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,js,css,bootstrap,py,nodejs,mysql,mongodb,express&perline=9" alt="My Skills" />
+    </a>
+  </p>
+</div>
 
-- Discord 👀
+<div align="center">
+  <img src="https://github.com/702/702/blob/master/assets/images/rainbow-divider.gif" width="80%">
+</div>
 
-- [![Discord Presence](https://lanyard.cnrad.dev/api/835584835443228702)](https://discord.com/users/835584835443228702)
-## 🚀 Languages and Tools:
+## 📈 GitHub Activity & Stats
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+<div align="center">
+  <a href="https://github.com/trazhub">
+    <img src="https://github-readme-stats.vercel.app/api?username=trazhub&show_icons=true&theme=tokyonight&hide_border=true&title_color=BD5FFF&icon_color=BD5FFF&animation=true" />
+  </a>
+  <a href="https://github.com/trazhub">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=trazhub&theme=tokyonight&hide_border=true&stroke=0000&ring=BD5FFF&fire=BD5FFF" />
+  </a>
+</div>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-<br/>
+<br>
 
-## Connect with me:
-<p align="left">
-<a href = "https://twitter.com/@GarvSukuna69"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/traz.cgi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- Animated GitHub Contributions Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trazhub&bg_color=1a1b27&color=BD5FFF&line=BD5FFF&point=ffffff&area=true&hide_border=true" />
+</div>
 
-</p>
-<a href="https://www.buymeacoffee.com/Trazhub"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Trazhub&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<div align="center">
+  <img src="https://github.com/702/702/blob/master/assets/images/rainbow-divider.gif" width="80%">
+</div>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=trazhub">
-</a>
-<a href="https://github.com/trazhub?tab=followers"><img src="https://img.shields.io/github/followers/nerkoux?label=Followers&style=social" alt="GitHub Badge"></a>
+## 📫 Connect & Support
+
+<div align="center">
+  <p>
+    <a href="https://twitter.com/GarvSukuna69" style="text-decoration:none; font-size: 2rem;">
+      🐦
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/traz.cgi/" style="text-decoration:none; font-size: 2rem;">
+      📸
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discord.com/users/835584835443228702" style="text-decoration:none; font-size: 2rem;">
+      💬
+    </a>
+  </p>
+  
+  <br>
+  
+  <a href="https://www.buymeacoffee.com/Trazhub">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=Trazhub&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a coffee" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/trazhub">
+    <img src="https://komarev.com/ghpvc/?username=trazhub&color=BD5FFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/trazhub?tab=followers">
+    <img src="https://img.shields.io/github/followers/trazhub?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+</div>
