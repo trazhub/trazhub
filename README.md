@@ -7,10 +7,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD5FFF&center=true&vCenter=true&width=500&lines=Passionate+Developer+from+India;Building+Minecraft+Tools;Designing+Motion+Graphics;Creating+Open+Source+Projects" alt="Typing SVG" />
   </a>
 </div>
-
+<b><a href="https://voxelport.qzz.io">VoxelPort</a></b><br><br>
 <div align="center">
   <h1 style="display:inline;">✨</h1>
-  <img src="https://github.com/702/702/blob/master/assets/images/rainbow-divider.gif" width="70%" style="display:inline-block; vertical-align:middle;">
+  
   <h1 style="display:inline;">✨</h1>
 </div>
 
@@ -21,7 +21,7 @@
     <tr>
       <td width="55%">
         <br>
-        🔭 I’m currently working on <b><a href="https://github.com/LocalMiner">LocalM Live</a></b><br><br>
+        🔭 I’m currently working on <b><a href="https://voxelport.qzz.io">VoxelPort</a></b><br><br>
         🌱 I’m currently learning <b>Motion Graphics and 3D Modeling</b><br><br>
         👯 I’m looking to collaborate on <b>OpenSource Projects</b><br><br>
         📫 How to reach me <b><a href="https://discord.com/users/835584835443228702">Discord</a></b><br><br>
