@@ -21,7 +21,7 @@
     <tr>
       <td width="55%">
         <br>
-        🔭 I’m currently working on <b><a href="https://voxelport.qzz.io">VoxelPort</a></b><br><br>
+        🔭 I’m currently working on <b><a href="https://www.voxelport.in">VoxelPort</a></b><br><br>
         🌱 I’m currently learning <b>Motion Graphics and 3D Modeling</b><br><br>
         👯 I’m looking to collaborate on <b>OpenSource Projects</b><br><br>
         📫 How to reach me <b><a href="https://discord.com/users/835584835443228702">Discord</a></b><br><br>
