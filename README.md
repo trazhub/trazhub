@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD5FFF&center=true&vCenter=true&width=500&lines=Passionate+Developer+from+India;Building+Minecraft+Tools;Designing+Motion+Graphics;Creating+Open+Source+Projects" alt="Typing SVG" />
   </a>
 </div>
-<b><a href="https://voxelport.qzz.io">VoxelPort</a></b><br><br>
+<b><a href="https://www.voxelport.in">VoxelPort</a></b><br><br>
 <div align="center">
   <h1 style="display:inline;">✨</h1>
   
